@@ -16,6 +16,7 @@ if "database_cibi" not in st.session_state:
         "mela": 52.0,
         "pane": 265.0,
         "uovo": 155.0,
+
         "salmone": 208.0,
         "avocado": 160.0
     }
